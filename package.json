@@ -1,0 +1,12 @@
+{
+    "name": "lazybot-services",
+    "version": "1.0.0",
+    "main": "handler.js",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "jsonschema": "^1.2.2"
+    },
+    "devDependencies": {
+        "serverless-offline": "^3.18.0"
+    }
+}
